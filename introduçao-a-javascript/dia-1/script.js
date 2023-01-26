@@ -110,7 +110,7 @@ let pecaXadrez = 'rainha'
   if (grade < 0 || grade > 100) {
     console.log("Erro, nota incorreta!");
   } else if (grade >= 90) {
-    console.log("A");
+    console.log("A"); 
   } else if (grade >= 80) {
     console.log("B");
   } else if (grade >= 70) {
